@@ -5,7 +5,7 @@ const Donate = () => {
     return (
         <div className='bg-color mt-10 md:grid grid-cols-8 gap-5 px-5 py-5'>
             <div className='bg-donate col-span-4 px-4 py-3 g-3'>
-                <p className='playfair text-4xl md:text-5xl text-indigo-800 pb-4'>Help Us Monthly</p>
+                <p className='playfair text-4xl md:text-5xl text-indigo-800 pb-4 font-semibold'>Help Us Monthly</p>
                 <p className='text-white authorone text-justify leading-7'>In this world of suffering, there are many unfortunate situations in which people lose hope. They become helpless through death, Sickness, poverty or war. So let’s join hands to transform and bring hope to those needy child. So come forward and donate for a children’s quality education.</p>
             </div>
 

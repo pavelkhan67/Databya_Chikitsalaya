@@ -17,7 +17,7 @@ const ContactUs = () => {
 
     return (
         <div className='pt-24'>
-            <div className='bg-gray pt-8 px-1'>
+            <div className='bg-gray pt-8 px-2'>
                 <div className='font-semibold text-start pb-5'>
                     <p className=' playfair text-4xl md:text-5xl text-color'>Contact Us</p>
                     <p className='text-3xl pt-1'> ABC Databya Chikitsalaya</p>

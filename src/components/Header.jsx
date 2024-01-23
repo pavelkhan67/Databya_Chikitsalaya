@@ -21,7 +21,7 @@ const Header = () => {
 
     return (
         <div className='fixed w-screen md:w-11/12 mx-auto z-50'>
-            <div className='bg-orange-500 flex justify-between ps-2 pe-6 md:ps-10 md:pe-10 py-2 text-white font-semibold'>
+            <div className='bg-orange-500 flex justify-between ps-2 pe-2 md:ps-10 md:pe-10 py-2 text-white font-semibold'>
                 <div className='flex gap-2 md:gap-4 text-sm md:text-base'>
                     <div className='flex gap-0 md:gap-1'>
                         <div>
@@ -61,7 +61,7 @@ const Header = () => {
                         </ul>
                     </div>
 
-                    <a href='/' className="font-semibold playfair text-base md:text-xl lg:text-2xl md:ps-1 text-white">Databya Chikitsalaya </a>
+                    <a href='/' className="font-semibold text-sm md:text-xl lg:text-2xl md:ps-1 text-white">Databya Chikitsalaya </a>
                 </div>
                 <div className="navbar-end flex flex-2 items-center">
                     <ul className="men hidden lg:flex font-semibold gap-3 text-white" >

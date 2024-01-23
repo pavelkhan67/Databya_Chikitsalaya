@@ -30,19 +30,19 @@ const WhoWeAre = () => {
 
                 <div className='grid grid-cols-2 gap-1 md:gap-2  mt-5 lg:mt-0'>
                     <div className='group flex flex-col justify-center items-center text-center  border-2 border-slate-300 py-2 lg:py-5 px-1 rounded hover:shadow-md hover:border-orange-400 hover:shadow-slate-500 transition-all duration-500'>
-                        <p className='text-xl md:text-3xl pb-2 group-hover:text-orange-400'>Education</p>
+                        <p className='text-2xl md:text-3xl pb-2 group-hover:text-orange-400'>Education</p>
                         <p>Nurturing minds for a brighter future through skill development and scholarships</p>
                     </div>
                     <div className='group flex flex-col justify-center items-center text-center  border-2 border-slate-300 py-2 lg:py-5 px-1 rounded hover:shadow-md hover:border-orange-400 hover:shadow-slate-500 transition-all duration-500'>
-                        <p className='text-xl md:text-3xl pb-2 group-hover:text-orange-400'>Women Empowerment</p>
+                        <p className='text-2xl md:text-3xl pb-2 group-hover:text-orange-400'>Women Empowerment</p>
                         <p>Advocating for gender equality and providing resources for women to achieve their aspirations</p>
                     </div>
                     <div className='group flex flex-col justify-center items-center text-center border-2 border-slate-300 py-2 lg:py-5 px-1 rounded hover:shadow-md hover:border-orange-400 hover:shadow-slate-500 transition-all duration-500'>
-                        <p className='text-xl md:text-3xl pb-2 group-hover:text-orange-400'>Awareness Campaigns</p>
+                        <p className='text-2xl md:text-3xl pb-2 group-hover:text-orange-400'>Awareness Campaigns</p>
                         <p>Fostering a culture of awareness on health, social issues, and the environment</p>
                     </div>
                     <div className='group flex flex-col justify-center items-center text-center border-2 border-slate-300 py-2 lg:py-5 px-1 rounded hover:shadow-md hover:border-orange-400 hover:shadow-slate-500 transition-all duration-500'>
-                        <p className='text-xl md:text-3xl pb-2 group-hover:text-orange-400'>Old Age Home</p>
+                        <p className='text-2xl md:text-3xl pb-2 group-hover:text-orange-400'>Old Age Home</p>
                         <p>Offering healthcare, companionship, and respect for the elderly</p>
                     </div>
                 </div>
