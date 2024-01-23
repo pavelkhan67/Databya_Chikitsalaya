@@ -1,0 +1,66 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.active{
+  color: rgb(255, 143, 24);
+  font-family: 'Playfair', serif;
+  font-size: large;
+  font-style: italic;
+  
+}
+
+/* Your CSS file */
+.transition {
+  transition: padding 0.5s ease; /* Change 0.3s to your desired transition duration */
+}
+
+.playfair{
+  font-family: 'Playfair', serif;
+}
+
+.authorone{
+  font-family: 'Autour One', system-ui;
+}
+
+.text-color{
+  color: #186abd;
+}
+
+.bg-color{
+  background-color: #186abd;
+}
+
+.bg-donate{
+  background-color: #c5ccce8f;
+}
+
+.bg-gray{
+  background-color: #efeded;
+}
+
+.border-color{
+  border-color: #186abd;
+}
+
+.shadow{
+  box-shadow: rgb(239, 117, 10) 0px 5px 15px;
+}
+
+.shadow2{
+  box-shadow: rgb(10, 144, 239) 0px 5px 15px;
+}
+
+.shadow3{
+  border-radius: 1px;
+  box-shadow: rgba(135, 151, 71, 0.909) 0px 1px 4px;
+}
+
+.obj ul li{
+  list-style-type: disc;
+  margin-left: 16px;
+  padding-bottom: 10px;
+}
+
+
