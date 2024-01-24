@@ -32,7 +32,7 @@ const AboutUs = () => {
                     <div className='md:order-2'>
                         <img className='w-full' src={img3} alt="" />
                     </div>
-                    <div className=' obj col-span-2 md:order-1 text-justify pe-1'>
+                    <div className=' obj col-span-2 md:order-1  text-justify px-1'>
                         <ul>
                             <li>To enquire, establish, start, aid, run, maintain Or manage Schools, night School, adults education centre, Colleges, girls Schools, libraries, hospital for the benefit of the public.</li>
                             <li>To arrange, organise, seminars & excursions for the diffusion of knowledge.</li>
