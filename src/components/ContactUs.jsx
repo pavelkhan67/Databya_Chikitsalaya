@@ -20,7 +20,7 @@ const ContactUs = () => {
             <div className='bg-gray pt-8 px-2'>
                 <div className='font-semibold text-start pb-5'>
                     <p className=' playfair text-4xl md:text-5xl text-color'>Contact Us</p>
-                    <p className='text-3xl pt-1'> ABC Databya Chikitsalaya</p>
+                    <p className='text-3xl pt-1'> Friends For Humanity Databya Chikitsalaya</p>
                 </div>
 
                 <div className='md:grid grid-cols-3 pb-5'>

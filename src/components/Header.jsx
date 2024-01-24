@@ -61,7 +61,7 @@ const Header = () => {
                         </ul>
                     </div>
 
-                    <a href='/' className="font-semibold text-sm md:text-xl lg:text-2xl md:ps-1 text-white">Databya Chikitsalaya </a>
+                    <a href='/' className="font-semibold text-sm md:text-xl lg:text-2xl md:ps-1 text-white">Friends For Humanity </a>
                 </div>
                 <div className="navbar-end flex flex-2 items-center">
                     <ul className="men hidden lg:flex font-semibold gap-3 text-white" >

@@ -10,7 +10,7 @@ const AboutUs = () => {
                 <p className='text-color playfair text-4xl md:text-5xl font-semibold'>About Us</p>
             </div>
 
-            <p className='text-justify mt-3 px-1'>Databya Chikitsalaya is a compassionate healthcare center committed to holistic well-being and community upliftment. Our mission extends beyond medical care, focusing on education, women's empowerment, awareness campaigns, and providing support for the elderly. Through initiatives such as scholarships, women empowerment programs, and awareness campaigns, we aim to create a positive impact on lives, fostering a community that thrives on compassion and collective well-being.</p>
+            <p className='text-justify mt-3 px-1'>Friends For Humanity Databya Chikitsalaya is a compassionate healthcare center committed to holistic well-being and community upliftment. Our mission extends beyond medical care, focusing on education, women's empowerment, awareness campaigns, and providing support for the elderly. Through initiatives such as scholarships, women empowerment programs, and awareness campaigns, we aim to create a positive impact on lives, fostering a community that thrives on compassion and collective well-being.</p>
 
             <div className='grid grid-cols-2 gap-3 mt-5 px-1'>
                 <div className='shadow3 px-2 pb-4 flex flex-col justify-center items-center'>

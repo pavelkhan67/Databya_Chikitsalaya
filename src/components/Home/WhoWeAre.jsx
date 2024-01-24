@@ -22,9 +22,9 @@ const WhoWeAre = () => {
                         reset={true}
                     />
                     <div className='ps-1 lg:ps-0'>
-                        <p className=''>Databya Chikitsalaya is a compassionate healthcare center committed to holistic well-being and community upliftment. Our mission extends beyond medical care, focusing on education, women's empowerment, awareness campaigns, and providing support for the elderly. Through initiatives such as scholarships, women empowerment programs, and awareness campaigns, we aim to create a positive impact on lives, fostering a community that thrives on compassion and collective well-being.</p>
+                        <p className=''>Friends For Humanity is a compassionate healthcare center committed to holistic well-being and community upliftment. Our mission extends beyond medical care, focusing on education, women's empowerment, awareness campaigns, and providing support for the elderly. Through initiatives such as scholarships, women empowerment programs, and awareness campaigns, we aim to create a positive impact on lives, fostering a community that thrives on compassion and collective well-being.</p>
 
-                        <p className='py-2'><span className='font-semibold'>Mission:</span> Databya Chikitsalaya is a healthcare center dedicated to holistic well-being and community welfare. Our focus areas include education, women's empowerment, awareness campaigns, and support for the elderly.</p>
+                        <p className='py-2'><span className='font-semibold'>Mission:</span> Friends For Humanity is a healthcare center dedicated to holistic well-being and community welfare. Our focus areas include education, women's empowerment, awareness campaigns, and support for the elderly.</p>
                     </div>
                 </div>
 
